@@ -1,0 +1,32 @@
+p{
+    color:grey;
+}
+
+.selected{
+    background-color:red;
+}
+
+
+.rates{
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.rates li{
+    padding:5px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+   
+}
+.first-col{
+    margin-right:100px;
+}
+
+.currency-name{
+    font-weight: 700;
+}
